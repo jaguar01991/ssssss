@@ -1,0 +1,139 @@
+Uri: https://plausible.io/js/script.js
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\js\script-1.js
+Content Type: application/javascript
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/css/tapa.css
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\css\tapa.css
+Content Type: text/css
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/bel.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\bel.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/bg.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\bg.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/bx1.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\bx1.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/cs.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\cs.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/dm.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\dm.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/mnc.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\mnc.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/msmm.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\msmm.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/pcm.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\pcm.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/progress.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\progress.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/re.gif
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\re.gif
+Content Type: image/gif
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/set.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\set.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/images/vsc.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\images\vsc.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/index.html
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\index.html
+Content Type: text/html
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/js/jquery-1.4.4.min.js
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\js\jquery-1.4.4.min.js
+Content Type: text/javascript
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/js/jscode.js
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\js\jscode.js
+Content Type: text/javascript
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/js/jupiter.js
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\js\jupiter.js
+Content Type: text/javascript
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/js/nvidia.js
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\js\nvidia.js
+Content Type: text/javascript
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Mac8helpline76/media/Fm7-alert.wav
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Mac8helpline76\media\Fm7-alert.wav
+Content Type: audio/wav
+
+.windows.net\Er0Win8helpline76\images\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/images/mnc.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\images\mnc.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/images/msmm.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\images\msmm.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/images/re.gif
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\images\re.gif
+Content Type: image/gif
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/images/set.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\images\set.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/images/vsc.png
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\images\vsc.png
+Content Type: image/png
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/index.html
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\index.html
+Content Type: text/html
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/js/emojione.min.js
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\js\emojione.min.js
+Content Type: text/javascript
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/js/script.compat.js
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\js\script.compat.js
+Content Type: text/javascript
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/media/beep.mp3
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\media\beep.mp3
+Content Type: audio/mpeg
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/media/eng.mp3
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\media\eng.mp3
+Content Type: audio/mpeg
+
+Uri: https://sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net/Er0Win8helpline76/w3
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\Er0Win8helpline76\w3
+Content Type: application/octet-stream
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-xxx-x
+File Name: C:\Downloaded Web Sites\sdbgjhsdfjgjsdhfgjk.z19.web.core.windows.net\gtag\js
+Content Type: application/javascript
+
